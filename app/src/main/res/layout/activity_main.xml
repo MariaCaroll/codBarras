@@ -18,5 +18,5 @@
         android:id="@+id/txtCodigo"
         android:layout_width="match_parent"
         android:layout_height="58dp"
-        android:text="Seu Cod vai aparecer aqui !!!" />
+        android:text="Seu Cod vai aparecer aqui!!!" />
 </LinearLayout>
